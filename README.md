@@ -40,18 +40,6 @@ Building agentic AI systems, trading automation, and full-stack products across 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberche88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberche88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
